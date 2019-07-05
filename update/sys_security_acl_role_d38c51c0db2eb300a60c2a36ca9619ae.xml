@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-05 04:08:39</sys_created_on>
+        <sys_id>d38c51c0db2eb300a60c2a36ca9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_355661_practicea_practicetable.x_355661_practicea.practicetable_user</sys_name>
+        <sys_package display_value="PracticeApp" source="x_355661_practicea">305c1d80db2eb300a60c2a36ca961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PracticeApp">305c1d80db2eb300a60c2a36ca961938</sys_scope>
+        <sys_security_acl display_value="x_355661_practicea_practicetable">138c51c0db2eb300a60c2a36ca9619ab</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d38c51c0db2eb300a60c2a36ca9619ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-05 04:08:39</sys_updated_on>
+        <sys_user_role display_value="x_355661_practicea.practicetable_user" name="x_355661_practicea.practicetable_user">938c518cdbeab300a60c2a36ca961925</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
